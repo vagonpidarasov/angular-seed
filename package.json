@@ -75,7 +75,7 @@
     "webpack": "4.12.0",
     "webpack-bundle-analyzer": "2.13.1",
     "webpack-cli": "3.0.8",
-    "webpack-dev-server": "3.1.4",
+    "webpack-dev-server": "3.1.11",
     "webpack-material-design-icons": "0.1.0",
     "webpack-md5-hash": "0.0.6",
     "webpack-merge": "4.1.3",
